@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Naasir Ahamad
+## 👋 Hi, I'm Abdul Naasir Ahamad
 
 🎓 Computer Science student at Gudlavalleru Engineering College (4th Year)<br/>
 🌐 Passionate about **Web Development, Cloud Computing, and Content Creation (Video Editing)**<br/>
